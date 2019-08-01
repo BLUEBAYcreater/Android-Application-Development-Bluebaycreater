@@ -1,0 +1,262 @@
+0 0 0
+
+<!-- XML file for the shape (saved in res/drawable) -->
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android" android:width="32dp" android:height="32dp"/>
+
+----------------------------
+
+bluebaycreater
+
+<!-- XML file for the style (saved in res/values/) -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="">
+    <item name="android:fontFamily">Cardo</item>
+    <item name="android:textColor">#FF47525E</item>
+    <item name="android:textSize">25sp</item>
+    <item name="android:lineSpacingMultiplier">1.3</item>
+  </style>
+</resources>
+
+<!-- XML file that applies the style to the TextView (saved in res/layout) -->
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="153.5dp" android:height="34dp" android:text="bluebaycreater" android:style="@style/"/>
+
+
+-------------------------------
+
+
+circle left most coloumn
+
+<!-- XML file for the shape (saved in res/drawable) -->
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android" android:width="32dp" android:height="32dp">
+  <solid android:color="#FF343F4B"/>
+</shape>
+
+
+--------------------------------
+
+logo
+
+<!-- XML file for the shape (saved in res/drawable) -->
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android" android:width="128dp" android:height="128dp"/>
+
+
+----------------------------------
+
+
+next
+
+
+<!-- XML file for the shape (saved in res/drawable) -->
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android" android:width="32dp" android:height="32dp"/>
+
+
+-------------------------------------------
+
+
+your topics
+
+<!-- XML file for the style (saved in res/values/) -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="">
+    <item name="android:fontFamily">Cardo</item>
+    <item name="android:textColor">#FF000000</item>
+    <item name="android:textSize">23sp</item>
+    <item name="android:lineSpacingMultiplier">1.28</item>
+  </style>
+</resources>
+
+<!-- XML file that applies the style to the TextView (saved in res/layout) -->
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="113.5dp" android:height="31.5dp" android:text="Your topics" android:style="@style/"/>
+
+-------------------------------------------
+
+
+Take topics based on your wish
+
+
+<!-- XML file for the style (saved in res/values/) -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="">
+    <item name="android:fontFamily">Cardo</item>
+    <item name="android:textColor">#FF000812</item>
+    <item name="android:textSize">18sp</item>
+    <item name="android:lineSpacingMultiplier">1.28</item>
+  </style>
+</resources>
+
+<!-- XML file that applies the style to the TextView (saved in res/layout) -->
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="239.5dp" android:height="24.5dp" android:text="Take topics based on your wish" android:style="@style/"/>
+
+
+------------------------------------------------
+
+lets choose love
+
+<!-- XML file for the style (saved in res/values/) -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="">
+    <item name="android:fontFamily">Cardo</item>
+    <item name="android:textColor">#FF030C12</item>
+    <item name="android:textSize">23sp</item>
+    <item name="android:lineSpacingMultiplier">1.28</item>
+  </style>
+</resources>
+
+<!-- XML file that applies the style to the TextView (saved in res/layout) -->
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="158.5dp" android:height="31.5dp" android:text="Lets choose love" android:style="@style/"/>
+
+----------------------------------------------------------
+
+
+love logog
+
+
+<!-- XML file for the shape (saved in res/drawable) -->
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android" android:width="100dp" android:height="100dp"/>
+
+
+-------------------------------------------------------------------
+
+
+be a  lover choose love,give love
+
+<!-- XML file for the style (saved in res/values/) -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="">
+    <item name="android:fontFamily">Cardo</item>
+    <item name="android:textColor">#FF020A12</item>
+    <item name="android:textSize">18sp</item>
+    <item name="android:lineSpacingMultiplier">1.28</item>
+  </style>
+</resources>
+
+<!-- XML file that applies the style to the TextView (saved in res/layout) -->
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="245dp" android:height="24.5dp" android:text="be a  lover choose love,give love" android:style="@style/"/>
+
+
+---------------------------------------------------------------------
+
+
+
+green logog
+
+
+
+<!-- XML file for the shape (saved in res/drawable) -->
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android" android:width="108dp" android:height="108dp"/>
+
+
+-----------------------------------------------------------------------
+
+
+poem
+
+<!-- XML file for the style (saved in res/values/) -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="">
+    <item name="android:fontFamily">Cardo</item>
+    <item name="android:textColor">#FF020B16</item>
+    <item name="android:textSize">23sp</item>
+    <item name="android:lineSpacingMultiplier">1.28</item>
+  </style>
+</resources>
+
+<!-- XML file that applies the style to the TextView (saved in res/layout) -->
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="117.5dp" android:height="31.5dp" android:text="Twist poem" android:style="@style/"/>
+
+
+-----------------------------------------------------------------
+
+
+melt in the best poems
+
+
+<!-- XML file for the style (saved in res/values/) -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="">
+    <item name="android:fontFamily">Cardo</item>
+    <item name="android:textColor">#FF02080F</item>
+    <item name="android:textSize">18sp</item>
+    <item name="android:lineSpacingMultiplier">1.28</item>
+  </style>
+</resources>
+
+<!-- XML file that applies the style to the TextView (saved in res/layout) -->
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="170.5dp" android:height="24.5dp" android:text="melt in the best poems" android:style="@style/"/>
+
+
+---------------------------------------------------------------------
+
+
+blue logo
+
+
+<!-- XML file for the shape (saved in res/drawable) -->
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android" android:width="104dp" android:height="104dp"/>
+
+-----------------------------------------------------
+
+breakup sucks
+
+
+
+<!-- XML file for the style (saved in res/values/) -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="">
+    <item name="android:fontFamily">Cardo</item>
+    <item name="android:textColor">#FF01060C</item>
+    <item name="android:textSize">23sp</item>
+    <item name="android:lineSpacingMultiplier">1.28</item>
+  </style>
+</resources>
+
+<!-- XML file that applies the style to the TextView (saved in res/layout) -->
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="139dp" android:height="31.5dp" android:text="Breakup sucks" android:style="@style/"/>
+
+
+--------------------------------------------------------
+
+
+They dont deserve us, correction
+ we don't deserve them
+
+
+
+<!-- XML file for the style (saved in res/values/) -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="">
+    <item name="android:fontFamily">Cardo</item>
+    <item name="android:textColor">#FF02060A</item>
+    <item name="android:textSize">18sp</item>
+    <item name="android:lineSpacingMultiplier">1.28</item>
+  </style>
+</resources>
+
+<!-- XML file that applies the style to the TextView (saved in res/layout) -->
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="250dp" android:height="47.5dp" android:text="They dont deserve us, correction  we don't deserve them" android:style="@style/"/>
+
