@@ -1,0 +1,196 @@
+0 0 0  (logo)----> option
+
+
+<!-- XML file for the shape (saved in res/drawable) -->
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android" android:width="32dp" android:height="32dp"/>
+
+
+--------------------------------------------------------------------------------------
+
+bluebaycreater logo
+
+<!-- XML file for the style (saved in res/values/) -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="">
+    <item name="android:fontFamily">Cardo</item>
+    <item name="android:textColor">#FF47525E</item>
+    <item name="android:textSize">25sp</item>
+    <item name="android:lineSpacingMultiplier">1.3</item>
+  </style>
+</resources>
+
+<!-- XML file that applies the style to the TextView (saved in res/layout) -->
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="153.5dp" android:height="34dp" android:text="bluebaycreater" android:style="@style/"/>
+
+
+-------------------------------------------------------------------------------------
+
+circle left top
+
+
+<!-- XML file for the shape (saved in res/drawable) -->
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android" android:width="32dp" android:height="32dp">
+  <solid android:color="#FF343F4B"/>
+</shape>
+
+
+---------------------------------------------------------------------------------------
+
+
+bluebaycreater above for that melts
+
+
+<!-- XML file for the style (saved in res/values/) -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="">
+    <item name="android:fontFamily">Roboto</item>
+    <item name="android:textColor">#FFFFFFFF</item>
+    <item name="android:textSize">27sp</item>
+    <item name="android:lineSpacingMultiplier">0.3</item>
+  </style>
+</resources>
+
+<!-- XML file that applies the style to the TextView (saved in res/layout) -->
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="353dp" android:height="32.5dp" android:text="bluebaycreater" android:style="@style/"/>
+
+
+
+--------------------------------------------------------------------------------------------
+
+
+for the heart that melts
+
+
+<!-- XML file for the style (saved in res/values/) -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="">
+    <item name="android:fontFamily">Roboto</item>
+    <item name="android:textColor">#FFFFFFFF</item>
+    <item name="android:textSize">21sp</item>
+    <item name="android:lineSpacingMultiplier">0.38</item>
+  </style>
+</resources>
+
+<!-- XML file that applies the style to the TextView (saved in res/layout) -->
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="353dp" android:height="25.5dp" android:text="for the heart that melts" android:style="@style/"/>
+
+
+
+--------------------------------------------------------------------------------------------
+
+
+box that holds menu
+
+<!-- XML file for the shape (saved in res/drawable) -->
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android">
+  <solid android:color="#FF263445"/>
+  <size android:height="222dp" android:width="456dp"/>
+</shape>
+
+
+-----------------------------------------------------------------------------------------------
+
+
+contact us
+
+
+<!-- XML file for the style (saved in res/values/) -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="">
+    <item name="android:fontFamily">Roboto</item>
+    <item name="android:textColor">#FFFFFFFF</item>
+    <item name="android:textSize">21sp</item>
+    <item name="android:lineSpacingMultiplier">0.38</item>
+  </style>
+</resources>
+
+<!-- XML file that applies the style to the TextView (saved in res/layout) -->
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="353dp" android:height="22.5dp" android:text="Contact us " android:style="@style/"/>
+
+
+
+-------------------------------------------------------------------------------------------------
+
+
+
+share yur lines
+
+
+<!-- XML file for the style (saved in res/values/) -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="">
+    <item name="android:fontFamily">Roboto</item>
+    <item name="android:textColor">#FFFFFFFF</item>
+    <item name="android:textSize">21sp</item>
+    <item name="android:lineSpacingMultiplier">0.38</item>
+  </style>
+</resources>
+
+<!-- XML file that applies the style to the TextView (saved in res/layout) -->
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="353dp" android:height="21.5dp" android:text="Share your lines" android:style="@style/"/>
+
+
+
+-------------------------------------------------------------------------------------------------------------
+
+Mail aniketh
+
+
+<!-- XML file for the style (saved in res/values/) -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="">
+    <item name="android:fontFamily">Roboto</item>
+    <item name="android:textColor">#FFFFFFFF</item>
+    <item name="android:textSize">21sp</item>
+    <item name="android:lineSpacingMultiplier">0.38</item>
+  </style>
+</resources>
+
+<!-- XML file that applies the style to the TextView (saved in res/layout) -->
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="353dp" android:height="25.5dp" android:text="Mail Aniketh" android:style="@style/"/>
+
+
+-----------------------------------------------------------------------------------
+
+
+Visit our website
+
+<!-- XML file for the style (saved in res/values/) -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="">
+    <item name="android:fontFamily">Roboto</item>
+    <item name="android:textColor">#FFFFFFFF</item>
+    <item name="android:textSize">21sp</item>
+    <item name="android:lineSpacingMultiplier">0.38</item>
+  </style>
+</resources>
+
+<!-- XML file that applies the style to the TextView (saved in res/layout) -->
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="353dp" android:height="25.5dp" android:text="Visit our website" android:style="@style/"/>
+
+
+-----------------------------------------------------------------------------------------------------
+
+Next button
+
+
+<!-- XML file for the shape (saved in res/drawable) -->
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android" android:width="32dp" android:height="32dp"/>
