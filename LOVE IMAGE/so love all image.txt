@@ -1,0 +1,86 @@
+BACKK
+
+<!-- XML file for the shape (saved in res/drawable) -->
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android" android:width="0dp" android:height="32dp"/>
+
+-------------------------------------------------
+
+
+HEADING 
+
+<!-- XML file for the style (saved in res/values/) -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="">
+    <item name="android:fontFamily">Roboto</item>
+    <item name="android:textColor">#FF47525E</item>
+    <item name="android:textSize">30sp</item>
+    <item name="android:lineSpacingMultiplier">1.15</item>
+  </style>
+</resources>
+
+<!-- XML file that applies the style to the TextView (saved in res/layout) -->
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="290.3dp" android:height="70.82dp" android:text="Goal" android:style="@style/"/>
+
+
+----------------------------------------------------
+
+
+Content para
+
+<!-- XML file for the style (saved in res/values/) -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="">
+    <item name="android:fontFamily">Roboto</item>
+    <item name="android:textColor">#FF47525E</item>
+    <item name="android:textSize">24sp</item>
+    <item name="android:lineSpacingMultiplier">1.44</item>
+  </style>
+</resources>
+
+<!-- XML file that applies the style to the TextView (saved in res/layout) -->
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="340.53dp" android:height="180.81dp" android:text="if i wanna be with you, all i wanna a do is, be with you, build with you, die with you..." android:style="@style/"/>
+
+
+------------------------------------------------------------
+
+
+next
+
+
+<!-- XML file for the style (saved in res/values/) -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <style name="">
+    <item name="android:fontFamily">Roboto</item>
+    <item name="android:textColor">#FF417CBD</item>
+    <item name="android:textSize">21sp</item>
+    <item name="android:lineSpacingMultiplier">1.43</item>
+  </style>
+</resources>
+
+<!-- XML file that applies the style to the TextView (saved in res/layout) -->
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:width="111.5dp" android:height="32.14dp" android:text="next->" android:style="@style/"/>
+
+
+
+------------------------------------------------------------
+
+
+
+white box
+
+
+<!-- XML file for the shape (saved in res/drawable) -->
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android">
+  <solid android:color="#FFFFFFFF"/>
+  <size android:height="606.5dp" android:width="422dp"/>
+</shape>
+
+
